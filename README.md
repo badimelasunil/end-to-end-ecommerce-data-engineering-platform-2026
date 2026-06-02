@@ -339,6 +339,16 @@ SOURCE sql/create_business_views.sql;
 - Geolocation Analysis
 
 
+## Documentation
+
+📄 Project Report (PDF)
+
+📑 Editable Documentation (DOCX)
+
+📊 Power BI Dashboard (.pbix)
+
+📽 Project Presentation (.pptx)
+
 
 
 \## Author
