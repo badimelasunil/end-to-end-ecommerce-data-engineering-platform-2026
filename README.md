@@ -7,15 +7,15 @@ Designed and developed an end-to-end Data Engineering and Business Intelligence 
 
 ## Objectives
 ---------------
-\* Build a scalable data pipeline
+- Build a scalable data pipeline
 
-\* Design a Star Schema Data Warehouse
+- Design a Star Schema Data Warehouse
 
-\* Perform business analytics using SQL
+- Perform business analytics using SQL
 
-\* Create interactive Power BI dashboards
+- Create interactive Power BI dashboards
 
-\* Deploy the solution on AWS
+- Deploy the solution on AWS
 
 
 ## Technology Stack
@@ -62,13 +62,13 @@ Designed and developed an end-to-end Data Engineering and Business Intelligence 
 
 
 ## Dashboard Screenshots
-### Figure A.1 – KPI Analysis Dashboard
+## Figure A.1 – KPI Analysis Dashboard
 <img width="1356" height="800" alt="Screenshot 2026-06-01 165124" src="https://github.com/user-attachments/assets/04819497-704b-42f2-a311-71e6c965c361" />
-### Key Insights
-\* Generated 16.01M total revenue. 
-\* Processed 99K customer orders. 
-\* Served 96K unique customers. 
-\* Achieved an average order value of 160.99.
+## Key Insights
+- Generated 16.01M total revenue.
+- Processed 99K customer orders. 
+- Served 96K unique customers. 
+- Achieved an average order value of 160.99.
 
 ### Figure A.2 – Sales Analysis Dashboard
 <img width="1342" height="755" alt="Screenshot 2026-06-01 223141" src="https://github.com/user-attachments/assets/a62f9126-5763-4520-8075-3550afa32543" />
