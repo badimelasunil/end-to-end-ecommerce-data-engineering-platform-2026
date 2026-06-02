@@ -96,35 +96,6 @@ Business Insights
 \## PROJECT STUCTURE
 --------------------
 
-Brazilian_Ecommerce_Data
-│
-├── Data
-│   ├── Raw Data
-│   ├── Cleaned Data
-│   ├── Analytics Tables
-│   └── Lookup Tables
-
-├── Scripts
-│   ├── Cleaning
-│   ├── Analytics Tables Creation
-│   └── SQL Loading
-
-├── MySQL
-│   ├── Data Warehouse Schema
-│   └── SQL Analytics Queries
-
-├── Dashboard
-│   └── Power BI Dashboard
-
-├── Documentation
-│   ├── Project Documentation
-│   ├── Presentation
-│   └── Architecture Images
-
-├── README.md
-├── requirements.txt
-└── .gitignore
-
 <img width="1122" height="1402" alt="PROJECT STUCTURE" src="https://github.com/user-attachments/assets/250c2eea-0274-4e84-9ce9-7d5bc1a8ffc0" />
 
 
