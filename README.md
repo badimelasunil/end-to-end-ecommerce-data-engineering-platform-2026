@@ -59,6 +59,43 @@ Designed and developed an end-to-end Data Engineering and Business Intelligence 
 | Development Tools      | VS Code, Git, GitHub |
 -------------------------------------------------
 
+
+
+## Dashboard Screenshots
+### Figure A.1 – KPI Analysis Dashboard
+<img width="1356" height="800" alt="Screenshot 2026-06-01 165124" src="https://github.com/user-attachments/assets/04819497-704b-42f2-a311-71e6c965c361" />
+
+### Figure A.2 – Sales Analysis Dashboard
+<img width="1342" height="755" alt="Screenshot 2026-06-01 223141" src="https://github.com/user-attachments/assets/a62f9126-5763-4520-8075-3550afa32543" />
+
+### Figure A.3 – Customer Analysis Dashboard
+<img width="1387" height="806" alt="Screenshot 2026-06-01 164041" src="https://github.com/user-attachments/assets/d4a98bd0-887c-46c3-a5c1-caae99120532" />
+
+### Figure A.4 – Product Analysis Dashboard
+<img width="1387" height="806" alt="Screenshot 2026-06-01 164041" src="https://github.com/user-attachments/assets/27059a18-6897-498d-91e4-cbb427efa239" />
+<img width="1395" height="787" alt="Screenshot 2026-06-01 165636" src="https://github.com/user-attachments/assets/fba0645f-c36a-4e6b-8533-cb2a6351c752" />
+
+### Figure A.5 – Payment Analysis Dashboard
+<img width="1392" height="777" alt="Screenshot 2026-06-01 165536" src="https://github.com/user-attachments/assets/ef25379c-fab9-410b-8303-afdd2dcd5f10" />
+
+### Figure A.6 - Delivery Analysis Dashboard
+<img width="1402" height="832" alt="Screenshot 2026-06-01 164131" src="https://github.com/user-attachments/assets/caaa8a28-5695-4059-be26-586243322dac" />
+
+### Figure A.7 – Review Analysis  Dashboard
+<img width="1327" height="726" alt="Screenshot 2026-06-01 222900" src="https://github.com/user-attachments/assets/aa91614f-4a9f-4abc-bfff-fde752532224" />
+
+### Figure A.8 – Seller Analysis Dashboard
+<img width="1367" height="797" alt="Screenshot 2026-06-01 163914" src="https://github.com/user-attachments/assets/6dfada05-7e11-4e1e-9c63-c99dffa3fe42" />
+
+### Figure A.9 – Top Products Dashboard
+<img width="1363" height="791" alt="Screenshot 2026-06-01 164645" src="https://github.com/user-attachments/assets/af9d21fb-9171-43cd-8d20-e762a1c286ee" />
+
+### Figure A.10 – Geolocation Analysis Dashboard
+<img width="1347" height="812" alt="Screenshot 2026-06-01 164436" src="https://github.com/user-attachments/assets/d6285522-e4f7-4f51-8c4e-a5be3143c958" />
+
+### Figure A.11 – Data Model (Star Schema)
+<img width="1676" height="735" alt="DATA MODELING " src="https://github.com/user-attachments/assets/36f82a0f-8d5f-4297-b131-db131129ce2d" />
+
 ## Project Architecture
 ------------------------
 
