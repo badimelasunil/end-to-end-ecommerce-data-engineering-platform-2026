@@ -61,39 +61,12 @@ Designed and developed an end-to-end Data Engineering and Business Intelligence 
 
 ## Project Architecture
 ------------------------
-Raw Data (CSV Files)
 
-↓
-
-Python ETL Pipeline
-
-↓
-
-Data Cleaning \& Transformation
-
-↓
-
-MySQL Data Warehouse
-
-↓
-
-Fact \& Dimension Tables
-
-↓
-
-Analytics SQL Views
-
-↓
-
-Power BI Dashboards
-
-↓
-
-Business Insights
+<img width="1122" height="1402" alt="PROJECT STUCTURE" src="https://github.com/user-attachments/assets/1f597057-a63b-4a18-b313-4ad4e628ecad" />
 
 
 
-## PROJECT STUCTURE
+## PROJECT WORK FLOW
 --------------------
 
 <img width="1122" height="1402" alt="PROJECT STUCTURE" src="https://github.com/user-attachments/assets/250c2eea-0274-4e84-9ce9-7d5bc1a8ffc0" />
