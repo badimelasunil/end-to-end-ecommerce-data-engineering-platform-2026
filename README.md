@@ -3,7 +3,6 @@
 
 ## Project Overview
 -------------------
-## Project Overview
 
 Developed an end-to-end Data Engineering and Business Intelligence solution using the Brazilian E-Commerce Public Dataset. Designed and implemented a complete   ETL pipeline to extract, clean, transform, and load large-scale transactional data into a dimensional Data Warehouse.
 
@@ -16,7 +15,6 @@ This project demonstrates practical expertise in Data Engineering, ETL Developme
 
 ## Objectives
 ---------------
- ## Objectives
 - Build a scalable end-to-end data engineering pipeline using Python and SQL.
 - Clean, transform, and standardize raw e-commerce datasets through ETL processes.
 - Design and implement a Star Schema Data Warehouse for analytical reporting.
@@ -60,9 +58,8 @@ This project demonstrates practical expertise in Data Engineering, ETL Developme
 | Data Processing        | Pandas, NumPy        |
 | Database               | MySQL                |
 | Data Warehousing       | Star Schema Modeling |
-| Business Intelligence  | Power BI, DAX        |
-| Workflow Orchestration | Apache Airflow       |
-| Cloud Platform         | AWS (EC2, S3, RDS)   |
+| Business Intelligence  | Power BI, DAX        |       |
+| Cloud Platform         | AWS (EC2)   |
 | Development Tools      | VS Code, Git, GitHub |
 -------------------------------------------------
 
